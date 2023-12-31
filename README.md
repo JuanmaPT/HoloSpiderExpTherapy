@@ -1,3 +1,7 @@
+
+![HoloLens2 Spider Exposure Therapy](https://jm-pt.eu/wp-content/uploads/2023/12/banner-repo.png)
+
+
 # Virtual Reality (VR) and Augmented Reality (AR) Exposure Therapy App
 
 ## Table of Contents
