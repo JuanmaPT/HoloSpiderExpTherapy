@@ -2,9 +2,9 @@
 ![HoloLens2 Spider Exposure Therapy](https://jm-pt.eu/wp-content/uploads/2023/12/banner-repo.png)
 
 
+
 # Virtual Reality (VR) and Augmented Reality (AR) Exposure Therapy App
 
-## Table of Contents
 1. [Introduction and Motivation](#introduction-and-motivation)
 2. [Exposure Therapy Concept](#exposure-therapy-concept)
     1. [Introduction to Exposure Therapy](#introduction-to-exposure-therapy)
@@ -49,6 +49,7 @@ Our AR application is designed to be utilized both under the guidance of a thera
 
 ### B. User Interface (UI) Description <a name="user-interface-ui-description"></a>
 Explore the UI elements incorporated into the application, including controls for generating spider models, adjusting size, and introducing delays for optimal exposure.
+![HoloLens2 Spider Exposure Therapy User Interface](https://jm-pt.eu/wp-content/uploads/2023/12/UI.png)
 
 ### C. Dependencies and Tools <a name="dependencies-and-tools"></a>
 The development of this application was carried out using Unity version 2022.3.10f1 and the Mixed Reality Feature Tool for Unity V1.0.2209.0. Key libraries include:
