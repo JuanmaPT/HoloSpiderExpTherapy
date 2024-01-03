@@ -46,6 +46,13 @@ Our AR application is designed to be utilized both under the guidance of a thera
 Explore the UI elements incorporated into the application, including controls for generating spider models, adjusting size, and introducing delays for optimal exposure.
 ![HoloLens2 Spider Exposure Therapy User Interface](https://jm-pt.eu/wp-content/uploads/2023/12/UI.png)
 
+![Gallery](https://jm-pt.eu/wp-content/uploads/2024/01/holo-spider-gallery.png)
+
+This section includes some images of the User interface an the main functionalities.
+
+![](https://jm-pt.eu/wp-content/uploads/2024/01/generate-rease.gif)
+
+
 ### C. Spider models <a name="spider-models"></a>
 
 
