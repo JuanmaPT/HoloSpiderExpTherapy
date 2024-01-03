@@ -10,12 +10,17 @@
 
 
 ![Introduction](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_intro.png)
-This project aims to apply Augmented Reality (AR) to create an exposure therapy application for Microsoft's HoloLens 2, specifically designed for treating phobias such as arachnophobia. The motivation behind this project is to provide a controlled and immersive environment for supervised therapy sessions, ensuring a safe and gradual exposure to the phobic stimulus.
+
+Welcome to our Augmented Reality(AR) exposure therapy app designed for Microsoft's HoloLens 2. This project is dedicated to harnessing the power of AR to address phobias, with a particular focus on arachnophobia. Our primary goal is to offer a secure and controlled environment, facilitating both supervised and unsupervised therapy sessions. This unique initiative utilizes the capabilities of the third version of the Mixed Reality Toolkit Feature (MRTK3) to enhance the development process and overall user experience. By utilizing MRTK3. Join us on this journey as we explore the intersection of AR technology and mental health, revolutionizing the way we approach phobia treatment through cutting-edge immersive experiences.
 
 ![Exposure Therapy and AR](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_exposure.png)
-<a name="#introduction-and-motivation"></a>
-### Introduction to Exposure Therapy <a name="introduction-to-exposure-therapy"></a>
-Exposure therapy is a widely recognized psychological treatment for various phobias, anxiety disorders, and post-traumatic stress disorder. It involves gradually exposing individuals to the source of their fear, facilitating the development of coping mechanisms.
+The application of augmented reality (AR) in exposure therapy represents a leap forward in flexibility and immersion, as it enables the placement of diverse 3D models within a virtual environment, providing users the opportunity to interact with these simulated stimuli. While this digital approach may not match the tactile realism of physical objects like spider replicas or actual spiders, it surpasses the conventional method of displaying images on a screen. AR offers a dynamic and interactive experience that closely aligns with the principles of exposure therapy, allowing for gradual and controlled exposure to the phobic stimulus.
+
+The versatility of AR, allowing any model to be seamlessly integrated into a room or environment, mitigates the logistical and financial challenges associated with creating realistic physical replicas or procuring live animals. This not only significantly cuts costs but also ensures a more scalable and accessible solution for therapists and patients.
+
+Moreover, addressing the ethical concern of potential animal abuse, AR-based exposure therapy eliminates the need for involving real animals in therapeutic sessions. This not only alleviates ethical concerns but also allows for a more humane and controlled approach to treatment.
+
+The concept of progressive exposure is seamlessly aligned with AR's flexibility, as therapists can tailor the intensity and complexity of the AR experience to suit the individual's comfort level. This methodical and personalized progression, facilitated by AR technology, enhances the therapeutic process by providing a safe yet immersive environment for individuals to confront and overcome their fears. Through this innovative fusion of psychological principles and cutting-edge technology, our project aims to revolutionize the landscape of exposure therapy for phobias using the immersive capabilities of Microsoft's HoloLens 2 and the Mixed Reality Toolkit (MRTK3).
 
 ### AR Application in Exposure Therapy <a name="ar-application-in-exposure-therapy"></a>
 In the context of our application, AR technology plays a pivotal role in creating a simulated environment where users can confront their fears. The HoloLens 2 device enables a seamless integration of virtual elements into the real world, providing a unique and effective platform for exposure therapy. The flexibility of the setup using 
