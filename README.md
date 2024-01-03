@@ -22,15 +22,15 @@
 ![Introduction](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_intro.png)
 This project aims to apply Augmented Reality (AR) technologies to create an exposure therapy application for Microsoft's HoloLens 2, specifically designed for treating phobias such as arachnophobia. The motivation behind this project is to provide a controlled and immersive environment for supervised therapy sessions, ensuring a safe and gradual exposure to the phobic stimulus. The
 
-![Exposure Therapy and AR](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_exposure.png)
+![Exposure Therapy and AR](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_exposure.png)<a name="#introduction-and-motivation"></a>
 
-### A. Introduction to Exposure Therapy <a name="introduction-to-exposure-therapy"></a>
+### Introduction to Exposure Therapy <a name="introduction-to-exposure-therapy"></a>
 Exposure therapy is a widely recognized psychological treatment for various phobias, anxiety disorders, and post-traumatic stress disorder. It involves gradually exposing individuals to the source of their fear, facilitating the development of coping mechanisms.
 
-### B. AR Application in Exposure Therapy <a name="ar-application-in-exposure-therapy"></a>
+### AR Application in Exposure Therapy <a name="ar-application-in-exposure-therapy"></a>
 In the context of our application, AR technology plays a pivotal role in creating a simulated environment where users can confront their fears. The HoloLens 2 device enables a seamless integration of virtual elements into the real world, providing a unique and effective platform for exposure therapy.
 
-### C. Bibliographic References <a name="bibliographic-references"></a>
+### Bibliographic References <a name="bibliographic-references"></a>
 - [Smith, J., & Jones, A. (2019). Augmented Reality in Mental Health Treatment: A Review](#)
 - [Williams, K. D., & Powers, M. B. (2017). Virtual Reality-enhanced Exposure Therapy for Social Anxiety Disorder: A Pilot Study](#)
 
