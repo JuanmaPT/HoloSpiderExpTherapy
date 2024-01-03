@@ -58,8 +58,10 @@ Explore the UI elements incorporated into the application, including controls fo
 
 ### Required software
 
- | [![Windows SDK](https://docs.microsoft.com/windows/mixed-reality/mrtk-unity/features/images/MRTK170802_Short_17.png)](https://developer.microsoft.com/windows/downloads/windows-10-sdk) [Windows SDK](https://developer.microsoft.com/windows/downloads/windows-10-sdk)| [![Unity](https://docs.microsoft.com/windows/mixed-reality/mrtk-unity/features/images/MRTK170802_Short_18.png)](https://unity3d.com/get-unity/download/archive) [Unity 2018/2019/2020 LTS](https://unity3d.com/get-unity/download/archive)| [![Visual Studio 2019](https://docs.microsoft.com/windows/mixed-reality/mrtk-unity/features/images/MRTK170802_Short_19.png)](http://dev.windows.com/downloads) [Visual Studio 2019](http://dev.windows.com/downloads)| [![Emulators (optional)](https://docs.microsoft.com/windows/mixed-reality/mrtk-unity/features/images/MRTK170802_Short_20.png)](https://docs.microsoft.com/windows/mixed-reality/using-the-hololens-emulator) [Emulators (optional)](https://docs.microsoft.com/windows/mixed-reality/using-the-hololens-emulator)|
-| :--- | :--- | :--- | :--- |
+ | [![Windows SDK](https://docs.microsoft.com/windows/mixed-reality/mrtk-unity/features/images/MRTK170802_Short_17.png)](https://developer.microsoft.com/windows/downloads/windows-10-sdk) [Windows SDK](https://developer.microsoft.com/windows/downloads/windows-10-sdk)| [![Unity](https://docs.microsoft.com/windows/mixed-reality/mrtk-unity/features/images/MRTK170802_Short_18.png)](https://unity3d.com/get-unity/download/archive) [Unity 2018/2019/2020 LTS](https://unity3d.com/get-unity/download/archive)| [![Visual Studio 2019](https://docs.microsoft.com/windows/mixed-reality/mrtk-unity/features/images/MRTK170802_Short_19.png)](http://dev.windows.com/downloads) [Visual Studio 2019](http://dev.windows.com/downloads)|
+| :--- | :--- | :--- |
+
+
 The development of this application was carried out using Unity version 2022.3.10f1 and the Mixed Reality Feature Tool for Unity V1.0.2209.0. Key libraries include:
 - Mixed Reality OpenXR Plugin 1.10.0
 - MRTK3 Spatial Manipulation 3.0.0
