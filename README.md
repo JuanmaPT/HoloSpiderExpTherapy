@@ -133,6 +133,8 @@ The cardboard box feature adds a dynamic element to the AR experience, offering 
 This section includes some images of the User interface an the main functionalities.
 
 ![Generate and remove](https://github.com/JuanmaPT/HoloSpiderExpTherapy/blob/main/demo/generate-remove.gif)
+![Delay](https://github.com/JuanmaPT/HoloSpiderExpTherapy/blob/main/demo/delay.gif)
+
 
 
 
