@@ -178,9 +178,9 @@ By following these steps, you'll be ready to harness the power of augmented real
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<br />
+
 ![Credits](https://jm-pt.eu/wp-content/uploads/2024/01/holspider_credits.png)
-<br />
+
 
 <br />
 <div align="center">
