@@ -183,7 +183,7 @@ By following these steps, you'll be ready to harness the power of augmented real
 <br />
 <div align="center">
   <p align="center">
-   Blanca Hermosilla [![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/blanca-hermosilla-campos-b5817129a/)]
+   Blanca Hermosilla [![LinkedIn][[linkedin-shield](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)]][[linkedin-url](https://www.linkedin.com/in/blanca-hermosilla-campos-b5817129a/)]
 
   </p>
 </div>
