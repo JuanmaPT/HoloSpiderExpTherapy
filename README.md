@@ -1,17 +1,10 @@
 
 ![HoloLens2 Spider Exposure Therapy](https://jm-pt.eu/wp-content/uploads/2024/01/banner_holospider.png)
-
-
-1. Introduction
-2. [Exposure Therapy Concept](#exposure-therapy-concept)
-    1. [Introduction to Exposure Therapy](#introduction-to-exposure-therapy)
-    2. [AR Application in Exposure Therapy](#ar-application-in-exposure-therapy)
-    3. [Bibliographic References](#bibliographic-references)
-
+Welcome to our Augmented Reality(AR) exposure therapy app designed for Microsoft's HoloLens 2. This project is dedicated to harnessing the power of AR to address phobias, with a particular focus on arachnophobia.
 
 ![Introduction](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_intro.png)
 
-Welcome to our Augmented Reality(AR) exposure therapy app designed for Microsoft's HoloLens 2. This project is dedicated to harnessing the power of AR to address phobias, with a particular focus on arachnophobia. Our primary goal is to offer a secure and controlled environment, facilitating both supervised and unsupervised therapy sessions. This unique initiative utilizes the capabilities of the third version of the Mixed Reality Toolkit Feature (MRTK3) to enhance the development process and overall user experience. By utilizing MRTK3. Join us on this journey as we explore the intersection of AR technology and mental health, revolutionizing the way we approach phobia treatment through cutting-edge immersive experiences.
+ Our primary goal is to offer a secure and controlled environment, facilitating both supervised and unsupervised therapy sessions. This unique initiative utilizes the capabilities of the third version of the Mixed Reality Toolkit Feature (MRTK3) to enhance the development process and overall user experience. By utilizing MRTK3. Join us on this journey as we explore the intersection of AR technology and mental health, revolutionizing the way we approach phobia treatment through cutting-edge immersive experiences.
 
 ![Exposure Therapy and AR](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_exposure.png)
 The application of augmented reality (AR) in exposure therapy represents a leap forward in flexibility and immersion, as it enables the placement of diverse 3D models within a virtual environment, providing users the opportunity to interact with these simulated stimuli. While this digital approach may not match the tactile realism of physical objects like spider replicas or actual spiders, it surpasses the conventional method of displaying images on a screen. AR offers a dynamic and interactive experience that closely aligns with the principles of exposure therapy, allowing for gradual and controlled exposure to the phobic stimulus.
@@ -20,31 +13,107 @@ The versatility of AR, allowing any model to be seamlessly integrated into a roo
 
 Moreover, addressing the ethical concern of potential animal abuse, AR-based exposure therapy eliminates the need for involving real animals in therapeutic sessions. This not only alleviates ethical concerns but also allows for a more humane and controlled approach to treatment.
 
+### Progressive exposure 
 The concept of progressive exposure is seamlessly aligned with AR's flexibility, as therapists can tailor the intensity and complexity of the AR experience to suit the individual's comfort level. This methodical and personalized progression, facilitated by AR technology, enhances the therapeutic process by providing a safe yet immersive environment for individuals to confront and overcome their fears. Through this innovative fusion of psychological principles and cutting-edge technology, our project aims to revolutionize the landscape of exposure therapy for phobias using the immersive capabilities of Microsoft's HoloLens 2 and the Mixed Reality Toolkit (MRTK3).
 
-### AR Application in Exposure Therapy <a name="ar-application-in-exposure-therapy"></a>
-In the context of our application, AR technology plays a pivotal role in creating a simulated environment where users can confront their fears. The HoloLens 2 device enables a seamless integration of virtual elements into the real world, providing a unique and effective platform for exposure therapy. The flexibility of the setup using 
+### Arachnophobia AR Therapy
+Arachnophobia, recognized as the fear of spiders, is a prevalent and clinically significant phobia characterized by an **exaggerated and irrational fear response**. Individuals afflicted by arachnophobia often experience heightened anxiety, panic, and resort to avoidance behaviors in the presence of spiders. The impact of this fear extends beyond typical caution, significantly **disrupting daily functioning** and lifestyle choices. Addressing arachnophobia is imperative for mental health, and our project employing augmented reality-based exposure therapy seeks to provide a structured and effective intervention to mitigate the impact of this pervasive phobia.
+
 
 ### Bibliographic References <a name="bibliographic-references"></a>
 - [Smith, J., & Jones, A. (2019). Augmented Reality in Mental Health Treatment: A Review](#)
 - [Williams, K. D., & Powers, M. B. (2017). Virtual Reality-enhanced Exposure Therapy for Social Anxiety Disorder: A Pilot Study](#)
 
-## 3. Arachnophobia <a name="arachnophobia"></a>
-
-### A. Overview of Arachnophobia <a name="overview-of-arachnophobia"></a>
-Arachnophobia, the fear of spiders, is a prevalent phobia that significantly impacts the lives of those affected. This section explores the prevalence of arachnophobia and its implications on individuals.
-
-### B. Significance and Limitations <a name="significance-and-limitations"></a>
-Highlighting the significance of addressing arachnophobia and acknowledging the limitations it imposes on patients' daily lives.
 
 ![Application](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_application.png)
 
-### A. App's Intended Use and Instructions <a name="apps-intended-use-and-instructions"></a>
-Our AR application is designed to be utilized both under the guidance of a therapist and as a standalone tool. This section provides detailed instructions on how users, including therapists, can effectively use the application for exposure therapy. A demo video is available [here](#).
+1. [Intended Use and Instructions](#exposure-therapy-concept)
+2. [Exposure Therapy Concept](#exposure-therapy-concept)
 
-### B. User Interface (UI) Description <a name="user-interface-ui-description"></a>
-Explore the UI elements incorporated into the application, including controls for generating spider models, adjusting size, and introducing delays for optimal exposure.
+## Intended Use and Features <a name="apps-intended-use-and-instructions"></a>
+
+Our **AR application** is versatile, catering to both therapist-guided sessions and standalone use. Below are the detailed steps for utilizing the application:
+
+### Usage Instructions
+
+1. **Compile and Deploy**: Follow the instructions in the getting started section of the repository to compile and deploy the app on the HoloLens.
+
+2. **Open the App**: Locate and open the ExpTherapyApp from the "All apps" section on the HoloLens. The interface remains fixed in place for a consistent user experience.
+
+3. **Position the Playground Surface**: Using hand interaction, move the plane (known as "playground surface") to the desired location. Align it with the real-world surface for a more realistic spider placement.
+
+4. **Hide Surface**: Toggle to hide the playground surface after positioning.
+
+5. **Spider Configuration**: Select a spider model, adjust its size, and set the delay (seconds it takes for the spider to appear).
+
+6. **Generate Spiders**: Hit the generate button to spawn spiders on the playground.
+
+7. **Optional: Cardboard Box**: Use the UI toggle to generate a cardboard box 3D model in the scene. This box can be used to cover the spider or spawn the spider inside it, providing an additional element for the patient to interact with closely.
+
+8. **Optional Enhancements**: Optionally, enable spider movement and hide the interface for a more immersive experience.
+
+9. **Guided Sessions**: For therapist-led sessions, tailor the intensity and guide the patient through the exposure therapy process.
+
+10. **Standalone Use**: Engage with the AR environment independently for exposure therapy, gradually increasing the intensity to suit your comfort level.
+
+11. **Enjoy the Experience**: Whether in a guided session or standalone use, immerse yourself or your patients in the AR environment for effective exposure therapy.
+
+
+
+### Main interface <a name="user-interface-ui-description"></a>
 ![HoloLens2 Spider Exposure Therapy User Interface](https://jm-pt.eu/wp-content/uploads/2023/12/UI.png)
+
+The UI elements incorporated into the application provide intuitive controls for seamless interaction. Key features include:
+
+- **Spider Generation Controls**: Users can generate spider models with controls for adjusting size and introducing delays, optimizing the exposure therapy experience.
+
+- **Realism Levels**: The left panel displays different levels of realism for the spiders, ranging from more friendly to highly realistic representations.
+
+- **Interface Visibility**: A top toggle, positioned to the right of the realism levels panel, allows users to hide or reveal the entire interface, minimizing distractions during the experience.
+
+- **Additional Controls**: Sliders are provided for fine-tuning the spider generation parameters, with toggles below for the cardboard box, spider movement, and playground surface visibility.
+
+- **Delete Button**: Located in the bottom-right corner of the UI, a button facilitates the removal of all instantiated spiders, providing a quick reset for a fresh exposure session.
+
+These user-friendly UI elements are strategically positioned to enhance the overall usability and effectiveness of the AR exposure therapy application.
+
+### Spider models <a name="user-interface-ui-description"></a>
+
+In this section, we present the diverse spider models available in our AR exposure therapy application. The images below showcase the various levels of realism, catering to different user preferences and therapeutic needs.
+
+![Spiders1](https://jm-pt.eu/wp-content/uploads/2024/01/spiders-models1.png)
+![Spiders2](https://jm-pt.eu/wp-content/uploads/2024/01/spider-models.png)
+
+* [**Cute Spider**](https://assetstore.unity.com/packages/3d/characters/creatures/spider-1-casual-fantasy-188309#description) - A friendly and approachable spider model, ideal for initial exposure levels. Avaliable in the Unity asset store for free.
+
+* **Realistic Spiders** - These models are modifications of the spider found in the repository ![Unity Procedural IK Wall Walking Spider](https://github.com/PhilS94/Unity-Procedural-IK-Wall-Walking-Spider), offering varying degrees of realism to cater to different comfort levels.
+
+Feel free to explore these spider models, and choose the ones that best suit your preferences for an effective and personalized exposure therapy experience.
+
+
+### The cardboard box <a name="user-interface-ui-description"></a>
+
+The augmented reality exposure therapy application includes a unique feature: the cardboard box. This 3D model can be generated within the scene using the UI toggle, offering additional interaction possibilities for therapy sessions.
+![Cardboard box](https://jm-pt.eu/wp-content/uploads/2024/01/cardboard_box.jpg)
+
+1. **Toggle Box Generation**: In the application's UI, use the designated toggle to generate the cardboard box within the AR environment.
+![Cardboard box button](https://jm-pt.eu/wp-content/uploads/2024/01/cardboard_box_button.jpg)
+
+2. **Strategic Placement**: Once generated, position the cardboard box in proximity to the spider models. This allows for controlled exposure by either covering the spider or spawning it inside the box.
+
+### Utilizing the Cardboard Box in Therapy
+
+- **Controlled Interaction**: The cardboard box serves as a tangible element for patients to interact with during exposure therapy. It can be used to cover the spider, introducing an additional layer of control and gradual exposure.
+
+- **Proximity Challenge**: By placing the spider inside the box, patients can engage with the AR environment while maintaining a sense of distance and safety. This approach enhances the therapeutic process by incrementally challenging the individual's fear response.
+
+- **Versatile Tool**: Therapists can strategically incorporate the cardboard box into guided sessions, tailoring the experience to the patient's comfort level and progression in exposure therapy.
+
+The cardboard box feature adds a dynamic element to the AR experience, offering a valuable tool for therapists and patients alike to enhance the effectiveness of spider exposure therapy sessions.
+
+
+
+
 
 ![Gallery](https://jm-pt.eu/wp-content/uploads/2024/01/holo-spider-gallery.png)
 
