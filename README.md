@@ -174,6 +174,8 @@ Follow the steps below to get started with our AR exposure therapy application o
     ```bash
     git clone https://github.com/your-username/ar-exposure-therapy.git
     ```
+3. Import the libraries using Microsoft's [Mixed Reality Feature Tool](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool). Select all the 15 packages of MRTK3 and the Platform Support>Mixed Reality OpenXR Plugin. Once done, inside the Unity Project go to Window>Package Manager andcheck that the following packages are included:
+![PackageManager](https://jm-pt.eu/wp-content/uploads/2024/01/PackageManager.jpg)
 
 3. **Compile and Deploy**: Follow the instructions provided in the repository to compile and deploy the application on your HoloLens 2 device.
 
