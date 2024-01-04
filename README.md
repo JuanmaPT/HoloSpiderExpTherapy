@@ -19,8 +19,7 @@ The concept of progressive exposure is seamlessly aligned with AR's flexibility,
 ### Arachnophobia AR Therapy
 Arachnophobia, recognized as the fear of spiders, is a prevalent and clinically significant phobia characterized by an **exaggerated and irrational fear response**. Individuals afflicted by arachnophobia often experience heightened anxiety, panic, and resort to avoidance behaviors in the presence of spiders. The impact of this fear extends beyond typical caution, significantly **disrupting daily functioning** and lifestyle choices. Addressing arachnophobia is imperative for mental health, and our project employing augmented reality-based exposure therapy seeks to provide a structured and effective intervention to mitigate the impact of this pervasive phobia.
 
-
-### Bibliographic References <a name="bibliographic-references"></a>
+ References:
 - [Smith, J., & Jones, A. (2019). Augmented Reality in Mental Health Treatment: A Review](#)
 - [Williams, K. D., & Powers, M. B. (2017). Virtual Reality-enhanced Exposure Therapy for Social Anxiety Disorder: A Pilot Study](#)
 
