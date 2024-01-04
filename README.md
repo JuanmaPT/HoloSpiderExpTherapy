@@ -133,7 +133,7 @@ The cardboard box feature adds a dynamic element to the AR experience, offering 
 <br />
 This section includes some images of the User interface an the main functionalities.
 
-![](https://jm-pt.eu/wp-content/uploads/2024/01/generate-rease.gif)
+![Generate and remove]([https://jm-pt.eu/wp-content/uploads/2024/01/generate-rease.gif](https://jm-pt.eu/wp-content/uploads/2024/01/generate-remoce-long.gif))
 
 
 
