@@ -201,6 +201,12 @@ By following these steps, you'll be ready to harness the power of augmented real
 | Juan Manuel Peña   | [![LinkedIn][linkedin-shield]][linkedin-url2]      | juanmaptcg@gmail.com           |
 | Subham Shome       | [![LinkedIn][linkedin-shield]][linkedin-url3]      | subham28297@gmail.com          |
 
+Blanca Hermosilla | [![LinkedIn][linkedin-shield]][linkedin-url] | b.hermosilla.campos@gmail.com
+Hyeon Yu | [![LinkedIn][linkedin-shield]][linkedin-url1] | uhre123@gmail.com
+Juan Manuel Peña | [![LinkedIn][linkedin-shield]][linkedin-url2] | juanmaptcg@gmail.com
+Subham Shome | [![LinkedIn][linkedin-shield]][linkedin-url3] | subham28297@gmail.com
+
+
 
 We express our gratitude to Professor Pascal Desbarats and the Université de Bordeaux for their unwavering guidance and support throughout the development of this application. Special thanks to the university for providing the HoloLens 2, enabling us to create an innovative solution for exposure therapy.
 
