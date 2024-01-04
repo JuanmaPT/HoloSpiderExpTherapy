@@ -11,7 +11,7 @@
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">Projec Presenwtation Video</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Demo Video/a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Demo Video</a>
 
   </p>
 </div>
