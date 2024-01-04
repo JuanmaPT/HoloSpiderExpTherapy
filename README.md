@@ -195,4 +195,4 @@ We express our gratitude to Professor Pascal Desbarats and the Université de Bo
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew](https://www.linkedin.com/in/blanca-hermosilla-campos-b5817129a/
+[linkedin-url]: https://www.linkedin.com/in/blanca-hermosilla-campos-b5817129a/
