@@ -142,6 +142,7 @@ This section includes some images of the User interface an the main functionalit
 
 ![Generate and remove](https://github.com/JuanmaPT/HoloSpiderExpTherapy/blob/main/demo/generate-remove.gif)
 ![Delay](https://github.com/JuanmaPT/HoloSpiderExpTherapy/blob/main/demo/delay.gif)
+![CardboardBox](https://github.com/JuanmaPT/HoloSpiderExpTherapy/blob/main/demo/BOX.gif)
 
 
 
