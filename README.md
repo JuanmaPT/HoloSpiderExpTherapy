@@ -138,7 +138,7 @@ The cardboard box feature adds a dynamic element to the AR experience, offering 
 
 
 ![Gallery](https://jm-pt.eu/wp-content/uploads/2024/01/holo-spider-gallery.png)
-This section includes some images of the User interface an the main functionalities.
+This section includes some gifs of the UI an the main functionalities of the app.
 
 ![Generate and remove](https://github.com/JuanmaPT/HoloSpiderExpTherapy/blob/main/demo/generate-remove.gif)
 ![Delay](https://github.com/JuanmaPT/HoloSpiderExpTherapy/blob/main/demo/delay.gif)
