@@ -128,6 +128,8 @@ This section includes some images of the User interface an the main functionalit
 ![tools and references](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_tools_references.png)
 
 ### Required software
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
  | [](https://developer.microsoft.com/windows/downloads/windows-10-sdk) [Windows SDK](https://developer.microsoft.com/windows/downloads/windows-10-sdk)| [](https://unity3d.com/get-unity/download/archive) [Unity 2018/2019/2020 LTS](https://unity3d.com/get-unity/download/archive)| [](http://dev.windows.com/downloads) [Visual Studio 2019](http://dev.windows.com/downloads)|
 | :--- | :--- | :--- |
