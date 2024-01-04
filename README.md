@@ -174,16 +174,16 @@ Follow the steps below to get started with our AR exposure therapy application o
     ```bash
     git clone https://github.com/your-username/ar-exposure-therapy.git
     ```
-3. Import the libraries using Microsoft's [Mixed Reality Feature Tool](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool). Select all the 15 packages of MRTK3 and the Platform Support>Mixed Reality OpenXR Plugin. Once done, inside the Unity Project go to Window>Package Manager andcheck that the following packages are included:
+3. Import the libraries using Microsoft's [Mixed Reality Feature Tool](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool). Select all the 15 packages of *MRTK3* and the *Platform Support>Mixed Reality OpenXR Plugin*. Once done, inside the **Unity Project** go to *Window>Package Manager* andcheck that the following packages are included:
 ![PackageManager](https://jm-pt.eu/wp-content/uploads/2024/01/PackageManager.jpg)
 
-3. **Compile and Deploy**: Follow the instructions provided in the repository to compile and deploy the application on your HoloLens 2 device.
+4. **Compile and Deploy**: Follow the instructions provided in the repository to compile and deploy the application on your HoloLens 2 device.
 
-4. **Open the Application**: Once deployed, locate and open the ExpTherapyApp from the "All apps" section on the HoloLens 2.
+5. **Open the Application**: Once deployed, locate and open the ExpTherapyApp from the "All apps" section on the HoloLens 2.
 
-5. **Explore UI and Features**: Familiarize yourself with the user interface controls, including spider generation, sliders for customization, and toggles for additional features like the cardboard box.
+6. **Explore UI and Features**: Familiarize yourself with the user interface controls, including spider generation, sliders for customization, and toggles for additional features like the cardboard box.
 
-6. **Begin Therapy**: Whether you are a therapist guiding a session or an individual engaging in standalone exposure therapy, tailor the experience using the provided controls for optimal results.
+7. **Begin Therapy**: Whether you are a therapist guiding a session or an individual engaging in standalone exposure therapy, tailor the experience using the provided controls for optimal results.
 
 By following these steps, you'll be ready to harness the power of augmented reality for effective spider exposure therapy using Microsoft HoloLens 2.
 
