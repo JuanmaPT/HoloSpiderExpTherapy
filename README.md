@@ -86,7 +86,7 @@ In this section, we present the diverse spider models available in our AR exposu
 
 * [**Cute Spider**](https://assetstore.unity.com/packages/3d/characters/creatures/spider-1-casual-fantasy-188309#description) - A friendly and approachable spider model, ideal for initial exposure levels. Avaliable in the Unity asset store for free.
 
-* **Realistic Spiders** - These models are modifications of the spider found in the repository ![Unity Procedural IK Wall Walking Spider](https://github.com/PhilS94/Unity-Procedural-IK-Wall-Walking-Spider), offering varying degrees of realism to cater to different comfort levels.
+* **Realistic Spiders** - These models are modifications of the spider found in the repository ![Procedural Spider](https://github.com/PhilS94/Unity-Procedural-IK-Wall-Walking-Spider), offering varying degrees of realism to cater to different comfort levels.
 
 Feel free to explore these spider models, and choose the ones that best suit your preferences for an effective and personalized exposure therapy experience.
 
