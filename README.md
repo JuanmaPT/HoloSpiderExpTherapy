@@ -9,7 +9,7 @@
     Welcome to our Augmented Reality(AR) exposure therapy app designed for Microsoft's HoloLens 2. This project is dedicated to harnessing the power of AR to address phobias, with a particular focus on arachnophobia.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Projec Presenwtation Video</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">Presentation Video</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Demo Video</a>
 
@@ -18,7 +18,7 @@
 
 
 ![Introduction](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_intro.png)
-
+<br />
  Our primary goal is to offer a secure and controlled environment, facilitating both supervised and unsupervised therapy sessions. This unique initiative utilizes the capabilities of the third version of the Mixed Reality Toolkit Feature (MRTK3) to enhance the development process and overall user experience. By utilizing MRTK3. Join us on this journey as we explore the intersection of AR technology and mental health, revolutionizing the way we approach phobia treatment through cutting-edge immersive experiences.
 
 ![Exposure Therapy and AR](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_exposure.png)
@@ -40,7 +40,7 @@ Arachnophobia, recognized as the fear of spiders, is a prevalent and clinically 
 
 
 ![Application](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_application.png)
-
+<br />
 1. [Intended Use and Instructions](#exposure-therapy-concept)
 2. [Exposure Therapy Concept](#exposure-therapy-concept)
 
@@ -130,7 +130,7 @@ The cardboard box feature adds a dynamic element to the AR experience, offering 
 
 
 ![Gallery](https://jm-pt.eu/wp-content/uploads/2024/01/holo-spider-gallery.png)
-
+<br />
 This section includes some images of the User interface an the main functionalities.
 
 ![](https://jm-pt.eu/wp-content/uploads/2024/01/generate-rease.gif)
@@ -176,9 +176,17 @@ Follow the steps below to get started with our AR exposure therapy application o
 
 By following these steps, you'll be ready to harness the power of augmented reality for effective spider exposure therapy using Microsoft HoloLens 2.
 
-
+<br />
 ![Credits](https://jm-pt.eu/wp-content/uploads/2024/01/holspider_credits.png)
+<br />
 
+<br />
+<div align="center">
+  <p align="center">
+   Blanca Hermosilla [![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/blanca-hermosilla-campos-b5817129a/)]
+
+  </p>
+</div>
 
 
 We express our gratitude to Professor Pascal Desbarats and the Université de Bordeaux for their unwavering guidance and support throughout the development of this application. Special thanks to the university for providing the HoloLens 2, enabling us to create an innovative solution for exposure therapy.
