@@ -79,7 +79,7 @@ These user-friendly UI elements are strategically positioned to enhance the over
 
 ### Spider models <a name="user-interface-ui-description"></a>
 
-In this section, we present the diverse spider models available in our AR exposure therapy application. The images below showcase the various levels of realism, catering to different user preferences and therapeutic needs.
+The images below showcase the various levels of realism, catering to different user preferences and therapeutic needs.
 
 ![Spiders1](https://jm-pt.eu/wp-content/uploads/2024/01/spiders-models1.png)
 ![Spiders2](https://jm-pt.eu/wp-content/uploads/2024/01/spider-models.png)
@@ -88,7 +88,7 @@ In this section, we present the diverse spider models available in our AR exposu
 
 * **Realistic Spiders** - These models are modifications of the spider found in the repository [Procedural Spider](https://github.com/PhilS94/Unity-Procedural-IK-Wall-Walking-Spider), offering varying degrees of realism to cater to different comfort levels.
 
-Feel free to explore these spider models, and choose the ones that best suit your preferences for an effective and personalized exposure therapy experience.
+
 
 
 ### The cardboard box <a name="user-interface-ui-description"></a>
