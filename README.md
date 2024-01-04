@@ -122,8 +122,6 @@ This section includes some images of the User interface an the main functionalit
 ![](https://jm-pt.eu/wp-content/uploads/2024/01/generate-rease.gif)
 
 
-### C. Spider models <a name="spider-models"></a>
-
 
 ![tools and references](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_tools_references.png)
 
@@ -142,7 +140,28 @@ The development of this application was carried out using Unity version 2022.3.1
 - MRTK UX Components (Non-Canvas) 3.1.0
 
 ![Getting_started](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_getting_started.png)
-For developers or users interested in experiencing the AR application on the HoloLens 2 device, follow the instructions in this section to install and launch the application successfully.
+## Getting Started
+
+Follow the steps below to get started with our AR exposure therapy application on Microsoft HoloLens 2:
+
+1. **Hololens 2 Fundamentals**: If you are new to HoloLens 2 development, it's recommended to go through the [Microsoft Learn site](https://learn.microsoft.com/en-us/training/modules/learn-mrtk-tutorials/1-7-exercise-hand-interaction-with-objectmanipulator) for Hololens 2 fundamentals. This tutorial provides essential insights into hand interaction with the ObjectManipulator.
+
+2. **Clone the Repository**: Clone the AR exposure therapy repository to your local machine:
+
+    ```bash
+    git clone https://github.com/your-username/ar-exposure-therapy.git
+    ```
+
+3. **Compile and Deploy**: Follow the instructions provided in the repository to compile and deploy the application on your HoloLens 2 device.
+
+4. **Open the Application**: Once deployed, locate and open the ExpTherapyApp from the "All apps" section on the HoloLens 2.
+
+5. **Explore UI and Features**: Familiarize yourself with the user interface controls, including spider generation, sliders for customization, and toggles for additional features like the cardboard box.
+
+6. **Begin Therapy**: Whether you are a therapist guiding a session or an individual engaging in standalone exposure therapy, tailor the experience using the provided controls for optimal results.
+
+By following these steps, you'll be ready to harness the power of augmented reality for effective spider exposure therapy using Microsoft HoloLens 2.
+
 
 ![Credits](https://jm-pt.eu/wp-content/uploads/2024/01/holspider_credits.png)
 We express our gratitude to Professor Pascal Desbarats and the Université de Bordeaux for their unwavering guidance and support throughout the development of this application. Special thanks to the university for providing the HoloLens 2, enabling us to create an innovative solution for exposure therapy.
