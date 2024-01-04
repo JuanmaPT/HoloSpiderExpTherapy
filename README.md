@@ -8,7 +8,7 @@
     |
     <a>Hyeon Yu </a>
     |
-    <a>Juan Manuel Peñ</a>
+    <a>Juan Manuel Peña</a>
     |
     <a>Subham Shome</a>
   </p>
