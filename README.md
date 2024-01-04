@@ -14,7 +14,22 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Demo Video</a>
 
   </p>
+
+  <p align="center">
+    <br />
+    <br />
+     <a>Blanca Hermosilla </a>
+    |
+    <a>Hyeon Yu </a>
+    |
+    <a>Juan Manuel Peñ</a>
+    |
+    <a>Subham Shome</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Demo Video</a>
+
+  </p>
 </div>
+
 
 
 ![Introduction](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_intro.png)
