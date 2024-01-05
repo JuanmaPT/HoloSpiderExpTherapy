@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/arxp.unity
+    guid: cce01a9d685c50748b10f1c7ee7938c9
+  - enabled: 0
+    path: Assets/meshtest1.unity
+    guid: e0eb842b44c2c584bbeec910ffdbde70
+  - enabled: 1
+    path: Assets/ARexp.unity
+    guid: eb41194107181c34aad7edc6f1ceba58
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: d6af1bf676ed9d940a347ee2daf9808d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d006e3362fd49414284f5cedf7295694, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8a7320b6ed2120b40b5c8eb0108fbbfa, type: 2}
