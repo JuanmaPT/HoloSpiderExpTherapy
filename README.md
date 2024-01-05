@@ -201,10 +201,6 @@ By following these steps, you'll be ready to harness the power of augmented real
 | Juan Manuel Peña   | [![LinkedIn][linkedin-shield]][linkedin-url2]      | juanmaptcg@gmail.com           |
 | Subham Shome       | [![LinkedIn][linkedin-shield]][linkedin-url3]      | subham28297@gmail.com          |
 
-Blanca Hermosilla | [![LinkedIn][linkedin-shield]][linkedin-url] | b.hermosilla.campos@gmail.com
-Hyeon Yu | [![LinkedIn][linkedin-shield]][linkedin-url1] | uhre123@gmail.com
-Juan Manuel Peña | [![LinkedIn][linkedin-shield]][linkedin-url2] | juanmaptcg@gmail.com
-Subham Shome | [![LinkedIn][linkedin-shield]][linkedin-url3] | subham28297@gmail.com
 
 
 
