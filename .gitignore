@@ -2,13 +2,16 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+ArExposure/Packages/MixedReality/
+ArExposure/[Ll]ibrary/
+ArExposure/[Tt]emp/
+ArExposure/[Oo]bj/
+ArExposure/[Bb]uild/
+ArExposure/[Bb]uilds/
+ArExposure/[Ll]ogs/
+ArExposure/[Uu]ser[Ss]ettings/
+ArExposure/[Mm]emoryCaptures/
+ArExposure/[Rr]ecordings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
