@@ -25,6 +25,9 @@
 
 
 
+[![Project Video](https://jm-pt.eu/wp-content/uploads/2024/01/MiniatureAR-ExTHerapy.jpg)]](https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs)
+
+
 ![Introduction](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_intro.png)
 <br />
  Our primary goal is to offer a secure and controlled environment, facilitating both supervised and unsupervised therapy sessions. This unique initiative utilizes the capabilities of the third version of the Mixed Reality Toolkit Feature ( [**MRTK3**](https://learn.microsoft.com/es-es/windows/mixed-reality/mrtk-unity/mrtk3-overview/)) to enhance the development process and overall user experience. Join us on this journey as we explore the intersection of AR technology and mental health, revolutionizing the way we approach phobia treatment through cutting-edge immersive experiences.
