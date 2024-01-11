@@ -17,15 +17,17 @@
     Welcome to our Augmented Reality(AR) exposure therapy app designed for Microsoft's HoloLens 2. This project is dedicated to harnessing the power of AR to address phobias, with a particular focus on arachnophobia.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">[![IMAGE ALT TEXT HERE](https://jm-pt.eu/wp-content/uploads/2024/01/MiniatureAR-ExTHerapy.jpg)](https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs)</a>
+    <a href="https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs">Project video</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Demo Video</a>
   </p>
 </div>
 
+[![IMAGE ALT TEXT HERE](https://jm-pt.eu/wp-content/uploads/2024/01/MiniatureAR-ExTHerapy.jpg)](https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs)
 
-
-
+<a href="https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs">
+  <img src="https://jm-pt.eu/wp-content/uploads/2024/01/MiniatureAR-ExTHerapy.jpg" alt="IMAGE ALT TEXT HERE" width="400" />
+</a>
 
 
 
