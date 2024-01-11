@@ -23,11 +23,13 @@
   </p>
 </div>
 
-[![IMAGE ALT TEXT HERE](https://jm-pt.eu/wp-content/uploads/2024/01/MiniatureAR-ExTHerapy.jpg)](https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs)
 
-<a href="https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs">
-  <img src="https://jm-pt.eu/wp-content/uploads/2024/01/MiniatureAR-ExTHerapy.jpg" alt="IMAGE ALT TEXT HERE" width="400" />
-</a>
+<p align="center">
+  <a href="https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs">
+    <img src="https://jm-pt.eu/wp-content/uploads/2024/01/MiniatureAR-ExTHerapy.jpg" alt="IMAGE ALT TEXT HERE" width="400" />
+  </a>
+</p>
+
 
 
 
