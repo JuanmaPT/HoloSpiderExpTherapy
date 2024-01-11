@@ -25,7 +25,8 @@
 
 
 
-[![Project Video](https://jm-pt.eu/wp-content/uploads/2024/01/MiniatureAR-ExTHerapy.jpg)]](https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs)
+
+[![IMAGE ALT TEXT HERE](https://jm-pt.eu/wp-content/uploads/2024/01/MiniatureAR-ExTHerapy.jpg)](https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs)
 
 
 ![Introduction](https://jm-pt.eu/wp-content/uploads/2024/01/holospider_intro.png)
