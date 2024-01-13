@@ -19,7 +19,7 @@
     <br />
     <a href="https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs">Project video</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Demo Video</a>
+    <a href="https://youtu.be/LJvF5HtCGm8">Demo Video</a>
   </p>
 </div>
 
