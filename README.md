@@ -28,13 +28,18 @@
   <a href="https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs">
     <img src="https://jm-pt.eu/wp-content/uploads/2024/01/MiniatureAR-ExTHerapy.jpg" alt="IMAGE ALT TEXT HERE" width="400" />
   </a>
+   <br />
 </p>
 
-| <a href="https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs"><img src="https://jm-pt.eu/wp-content/uploads/2024/01/MiniatureAR-ExTHerapy.jpg" alt="IMAGE ALT TEXT HERE" width="400" /></a> | <a href="https://youtu.be/J9tKFcsRYic?si=3UsaP-4thLlw0vVs"><img src="https://jm-pt.eu/wp-content/uploads/2024/01/MiniatureAR-ExTHerapy.jpg" alt="IMAGE ALT TEXT HERE" width="400" /></a> |
-| --- | --- |
-| Caption for the first image | Caption for the second image |
+<p align="center">
+   <br />
+  <a href="https://youtu.be/LJvF5HtCGm8">
+    <img src="https://jm-pt.eu/wp-content/uploads/2024/01/Demo-video-AR-ExTHerapy.jpg" alt="IMAGE ALT TEXT HERE" width="400" />
+  </a>
+</p>
 
-https://youtu.be/LJvF5HtCGm8
+
+
 
 
 
